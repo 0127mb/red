@@ -1,0 +1,76 @@
+.sol {
+    text-decoration: none;
+    color: red;
+}
+
+ main .der {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+margin-top: 100px;
+}
+
+main h1 {
+    text-align: center;
+    margin-top: 100px;
+}
+
+main div {
+    display: flex;
+    justify-content: space-around;
+    background-color: whitesmoke;
+    width: 700px;
+    margin: 0 auto;
+    color: none;
+}
+
+main button {
+    width: 255px;
+    height: 54px;
+    border-radius: 20px;
+    border: none;
+    color: grey;
+}
+
+button :active {
+    color: black;
+    background-color: antiquewhite;
+}
+
+.bir {
+    color: black;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+input {
+    width: 533px;
+    height: 70px;
+    border-radius: 20px;
+    gap: 20px;
+    border: white;
+    display: flex;
+    align-items: center;
+    margin-left: 650px;
+}
+
+.ikki {
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    margin: 0 auto;
+    margin-left: 830px;
+}
+
+.s {
+    background-color: red;
+    color: white;
+    margin: 0 auto;
+    margin-left: 900px;
+}
+
+.red {
+    color: blue;
+    font-size: 48px;
+}
+header{display: flex; justify-content: space-evenly; }
